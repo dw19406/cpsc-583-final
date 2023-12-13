@@ -6,3 +6,5 @@ This project is David Wang's submission for CPSC 583. It combines the Nodeformer
 To run the program, run the scripts in runner.ipynb. 
 
 To modify learning rate, change the --lr parameter. To change the weight decay, change --weight_decay.
+
+Credits to https://github.com/qitianwu/NodeFormer for the initial Nodeformer implementation.
